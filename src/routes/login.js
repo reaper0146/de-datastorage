@@ -16,7 +16,7 @@ const Login = () => (
                             <LoginForm url='/login' />
                         </Section>
                     </Box>
-                    <StyledLink to={ROUTE_REGISTER}>Don\'t have an account? Create it</StyledLink>
+                    <StyledLink to={ROUTE_REGISTER}>Don't have an account? Create it</StyledLink>
                 </Wrapper>
             </Container>
         )}
