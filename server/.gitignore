@@ -1,7 +1,0 @@
-.idea
-.env
-node_modules
-*.swp
-.database/*
-
-!**/**/.gitkeep.idea
